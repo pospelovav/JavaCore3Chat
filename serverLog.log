@@ -1,0 +1,17 @@
+ноя 30, 2020 8:00:15 PM java.util.logging.LogManager$RootLogger log
+INFO: Сервер запущен. Ожидаем клиентов...
+ноя 30, 2020 8:00:24 PM java.util.logging.LogManager$RootLogger log
+INFO: Клиент подключился
+ноя 30, 2020 8:00:24 PM java.util.logging.LogManager$RootLogger log
+INFO: /authok
+ноя 30, 2020 8:00:24 PM java.util.logging.LogManager$RootLogger log
+INFO: /clientslist MadRat 
+ноя 30, 2020 8:10:48 PM java.util.logging.LogManager$RootLogger log
+INFO: Сервер запущен. Ожидаем клиентов...
+ноя 30, 2020 8:11:10 PM java.util.logging.LogManager$RootLogger log
+INFO: Клиент подключился
+ноя 30, 2020 8:11:10 PM java.util.logging.LogManager$RootLogger log
+INFO: /authok
+ноя 30, 2020 8:11:10 PM java.util.logging.LogManager$RootLogger log
+INFO: /clientslist MadRat
+
